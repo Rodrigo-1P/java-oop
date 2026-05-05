@@ -1,11 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        Viatura carro = new Viatura();
+        Barco carro = new Barco();
 
-        carro.setNumRodas(4);
+        /*carro.setNumRodas(4);
         carro.setTipo("Carro Desportivo");
-        carro.setNumRodas(120);
+        carro.setNumRodas(120);*/
 
         carro.mostraInfo();
 
